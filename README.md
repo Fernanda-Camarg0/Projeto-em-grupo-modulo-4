@@ -9,7 +9,9 @@ Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padroniza
 <h2> O que vamos fazer?</h2>
 Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês,
 a fim de realizar uma apresentação com a exploração dos dados.
+
 ## Objetivos:
+
 Crie um repositório compartilhado com sua equipe para que seja possível fazer o backup tanto do esquema do banco quanto das queries elaboradas.
 
 ⇨ Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados: Análise o conjunto de dados selecionado para que as
