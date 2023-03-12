@@ -3,3 +3,7 @@
 # Proposta:
 
 ## Contexto:
+Temos um problema e precisaremos da sua ajuda para resolver!
+Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados.
+
+<h2> O que vamos fazer?</h2>
