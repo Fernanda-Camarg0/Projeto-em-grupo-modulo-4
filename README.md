@@ -24,6 +24,9 @@ perguntas sejam pertinentes.
 ⇨ Criar visualizações dos dados com base nas perguntas elaboradas: aqui vocês podem usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc.
 
 ⇨ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado.
+# Perguntas
+
+![image](https://user-images.githubusercontent.com/116724832/224571442-e2d2c591-03bb-429b-b4bf-ea2f6c5b84a2.png)
 
 # Nossa Equipe:
 
