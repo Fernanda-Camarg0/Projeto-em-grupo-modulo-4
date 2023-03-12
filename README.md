@@ -27,4 +27,5 @@ perguntas sejam pertinentes.
 
 # Nossa Equipe:
 
-![image](https://user-images.githubusercontent.com/116724832/224568957-d956575f-1a4b-48bf-91c8-d4dc48ab042d.png)
+![image](https://user-images.githubusercontent.com/116724832/224569253-5e8faa4d-4ca5-455c-b1a5-1710d707345a.png)
+
