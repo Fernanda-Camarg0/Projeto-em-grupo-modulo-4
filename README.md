@@ -24,6 +24,13 @@ perguntas sejam pertinentes.
 ⇨ Criar visualizações dos dados com base nas perguntas elaboradas: aqui vocês podem usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc.
 
 ⇨ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado.
+
+# Tema: Steam
+
+![image](https://user-images.githubusercontent.com/116724832/224697143-4a570435-95c7-4a7f-b273-08c045620871.png)
+
+Steam é um software de gestão de direitos digitais criado pela Valve Corporation ou Valve L.L.C., de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.
+
 # Perguntas
 
 ![image](https://user-images.githubusercontent.com/116724832/224692652-51262d18-e580-4703-86fa-e66aa2faf7dc.png)
