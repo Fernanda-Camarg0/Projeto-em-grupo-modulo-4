@@ -43,7 +43,7 @@ O programa também conta com um sistema de amigos, que permite ao usuário criar
 
 # Ferramentas utilizadas:
 
--- Mysql
--- Power Bi
--- lucidchart
--- canva
+- Mysql
+- Power Bi
+- lucidchart
+- canva
