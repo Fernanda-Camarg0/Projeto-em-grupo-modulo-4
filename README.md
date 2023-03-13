@@ -26,7 +26,7 @@ perguntas sejam pertinentes.
 ⇨ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado.
 # Perguntas
 
-![image](https://user-images.githubusercontent.com/116724832/224571789-e9b6b271-eb22-4136-b9fb-f7c8e728f30d.png)
+![image](https://user-images.githubusercontent.com/116724832/224691817-1405319c-601c-4ace-9f44-5751d04102dd.png)
 
 # Nossa Equipe:
 
