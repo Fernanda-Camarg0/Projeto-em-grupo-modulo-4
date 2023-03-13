@@ -29,7 +29,9 @@ perguntas sejam pertinentes.
 
 ![image](https://user-images.githubusercontent.com/116724832/224697143-4a570435-95c7-4a7f-b273-08c045620871.png)
 
-Steam é um software de gestão de direitos digitais criado pela Valve Corporation ou Valve L.L.C., de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.
+Steam é um software de gestão de direitos digitais (criado pela Valve Corporation ou Valve L.L.C.), de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.
+
+O programa também conta com um sistema de amigos, que permite ao usuário criar uma rede de contatos online, com os quais pode jogar, trocar itens, interagir no chat, transmitir ao vivo (gameplays), sistema de jogos em nuvem e muito mais...
 
 # Perguntas
 
