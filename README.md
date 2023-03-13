@@ -41,3 +41,8 @@ O programa também conta com um sistema de amigos, que permite ao usuário criar
 
 ![image](https://user-images.githubusercontent.com/116724832/224569253-5e8faa4d-4ca5-455c-b1a5-1710d707345a.png)
 
+# Ferramentas utilizadas:
+-- Mysql
+-- Power Bi
+-- lucidchart
+-- canva
