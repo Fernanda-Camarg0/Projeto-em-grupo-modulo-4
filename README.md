@@ -45,5 +45,6 @@ O programa também conta com um sistema de amigos, que permite ao usuário criar
 
 - Mysql
 - Power Bi
-- lucidchart
-- canva
+- Lucidchart
+- Canva 
+- CSV 
