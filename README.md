@@ -35,7 +35,7 @@ O programa também conta com um sistema de amigos, que permite ao usuário criar
 
 # Perguntas
 
-![image](https://user-images.githubusercontent.com/116724832/224692652-51262d18-e580-4703-86fa-e66aa2faf7dc.png)
+![image](https://user-images.githubusercontent.com/116724832/224872265-e7ace809-5df5-4cc3-9368-397d4e2af016.png)
 
 # Nossa Equipe:
 
