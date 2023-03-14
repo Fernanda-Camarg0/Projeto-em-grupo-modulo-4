@@ -1,0 +1,1 @@
+SELECT nome, classificacoes_positivas, sum(classificacoes_positivas) as avaliacoes_totais, downloads from steam group by nome order by avaliacoes_totais desc

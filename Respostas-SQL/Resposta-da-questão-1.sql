@@ -1,0 +1,1 @@
+SELECT  editora, SUM(downloads)  FROM steam GROUP BY editora order by SUM(downloads) desc

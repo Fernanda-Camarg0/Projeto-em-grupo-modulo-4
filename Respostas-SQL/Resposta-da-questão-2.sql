@@ -1,0 +1,1 @@
+SELECT  plataformas, SUM(downloads)  FROM steam GROUP BY plataformas order by SUM(downloads) desc  

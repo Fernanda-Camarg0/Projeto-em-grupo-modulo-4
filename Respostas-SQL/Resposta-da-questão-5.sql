@@ -1,0 +1,1 @@
+SELECT  nome, downloads  FROM steam order by downloads desc

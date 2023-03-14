@@ -1,0 +1,1 @@
+SELECT nome,preco,downloads from steam where preco >0 order by downloads desc
