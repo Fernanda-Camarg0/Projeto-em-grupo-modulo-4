@@ -48,3 +48,4 @@ O programa também conta com um sistema de amigos, que permite ao usuário criar
 - Lucidchart
 - Canva 
 - CSV 
+- Excel
